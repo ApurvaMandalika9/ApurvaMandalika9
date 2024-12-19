@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋. I am Apurva Mandalika — a Machine Learning enthusiast with a passion for turning data into actionable insights and innovative solutions. With a strong foundation in Machine Learning, Deep Learning and Data Analytics, I am driven by the challenge of solving complex problems and creating intelligent systems that make a real-world impact.
+
 
 <!--
 **ApurvaMandalika9/ApurvaMandalika9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
