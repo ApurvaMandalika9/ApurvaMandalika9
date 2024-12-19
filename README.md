@@ -14,7 +14,7 @@ Hello! I'm a passionate **Data Scientist** and **Graduate Student** with a stron
 ---
 
 ## 💼 Professional Experience
-### **Senior Data Scientist** [24]7.ai 
+##### **Senior Data Scientist** [24]7.ai 
 
 ---
 
@@ -59,7 +59,7 @@ A highly skilled **Data Scientist** with a proven record in delivering impactful
 ## 📫 Let's Connect!
 -  [**GitHub**](https://github.com/ApurvaMandalika9)
 -  [**LinkedIn**](https://www.linkedin.com/in/apurva-mandalika/)
-- **Email**: apurva.mandalika96@gmail.com
+- [**Email**](apurva.mandalika96@gmail.com)
 
 ---
 
