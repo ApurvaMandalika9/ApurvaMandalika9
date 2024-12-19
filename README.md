@@ -1,11 +1,11 @@
-# 👨‍💻 Welcome to My GitHub!
+# 👩‍💻 Welcome to My GitHub!
 
 Hello! I'm a passionate **Data Scientist** and 📚 **Graduate Student at Texas A&M University** pursuing a Master's in Computer Science. With a strong foundation in **Machine Learning**, **Deep Learning**, **Data Analytics**, and **Augmented Reality**, I bring over four years of professional experience at [24]7.ai 💼, where I contributed to innovative solutions, including AR-driven customer support and predictive analytics. My 📚 B.Tech in Computer Science from Amrita Vishwa Vidyapeetham laid the groundwork for my technical expertise.
 
 
 ---
 
-## 🔬 Projects
+##  📂 Projects
 - **[Intelligent Tutoring System for Learning Complex Scripts](https://github.com/ApurvaMandalika9/FeedbackMechanismForLearningComplexLanguage)** *(2024)*  
   - Developed a system with a **DTW-based personalized feedback mechanism** for learning complex scripts like Chinese and Arabic, achieving **70% improvement in user's learning outcomes**.
  
@@ -46,10 +46,11 @@ A highly skilled **Data Scientist** with a proven record in delivering impactful
 
 ---
 
-## 📫 Let's Connect!
--  [**GitHub**](https://github.com/ApurvaMandalika9)
--  [**LinkedIn**](https://www.linkedin.com/in/apurva-mandalika/)
-- [**Email**](apurva.mandalika96@gmail.com)
+##  🌐 Let's Connect!
+<a href="https://github.com/ApurvaMandalika9" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/apurva-mandalika/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:apurva.mandalika96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 
 ---
 
