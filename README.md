@@ -6,16 +6,19 @@ Hello! I'm a passionate **Data Scientist** and 📚 **Graduate Student at Texas 
 ---
 
 ## 🔬 Projects
-- **Intelligent Tutoring System for Learning Complex Scripts** *(2024)*  
-  - Developed a system with a **DTW-based personalized feedback mechanism** for learning scripts like Chinese and Arabic, achieving **70% improvement in learning outcomes**.
+- **[Intelligent Tutoring System for Learning Complex Scripts](https://github.com/ApurvaMandalika9/FeedbackMechanismForLearningComplexLanguage)** *(2024)*  
+  - Developed a system with a **DTW-based personalized feedback mechanism** for learning complex scripts like Chinese and Arabic, achieving **70% improvement in user's learning outcomes**.
+ 
+- **[Development and Comparison of ML and DL Models for Image Classification](https://github.com/ApurvaMandalika9/ImageRecognition_Using_ML_And_DL_Models)** *(2024)*  
+  - Developed and compared **Random Forest (44.97% accuracy)**, **CNN (81.1%)**, and **ResNet (83.6%)** models on the CIFAR-10 dataset, analyzing their strengths and limitations.
 
-- **Deep Learning for Image Classification** *(2024)*  
+- **[Deep Learning for Image Classification](https://github.com/ApurvaMandalika9/ImageClassificationUsingDeepLearningModel)** *(2024)*  
   - Designed a **DenseNet-ResNet hybrid model**, achieving **92.5% accuracy** on the CIFAR-10 dataset.
 
-- **Multimodal Classification Model** *(2024)*  
+- **[Multimodal Classification Model](https://github.com/ApurvaMandalika9/MultiModalClassificationModel)** *(2024)*  
   - Created a fusion model combining **CNN for image data** and **ANN for audio data**, achieving **98.92% validation accuracy** on the multimodal MNIST dataset.
 
-- **Data Management Application** *(2023)*  
+- **[Data Management Application](https://github.com/ApurvaMandalika9/DataManagementApplicationForDentistry)** *(2023)*  
   - Built a Ruby on Rails-based application for the Texas A&M School of Dentistry, eliminating 100% of paperwork and streamlining workflows.
 
 - **Matrix Factorization Research** *(2018-2019)*  
