@@ -34,9 +34,9 @@ Hello! I'm a passionate **Data Scientist** and 📚 **Graduate Student at Texas 
 ---
 
 ## 🛠 Skills
-- **Technical Expertise**: Augmented Reality, Machine Learning, Data Analytics, Data Modelling  
-- **Programming Languages**: Swift, Python, SQL, Java, Node.js, React, Ruby on Rails, HTML, CSS, JavaScript  
-- **Platforms & Tools**:  XCode, VS Code, Express, GitHub, MS Office, Docker 
+- **Technical Expertise**: Data Mining, Data Analytics, Machine Learning, Deep Learning, Data Visualization, Augmented Reality 
+- **Programming Languages**: Python, SQL, PostgreSQL, Java, Node.js, React, Ruby on Rails, HTML, CSS, JavaScript, Swift  
+- **Platforms & Tools**:  PyTorch, Tableau, Jupyter Notebook, Flask, VS Code, Express, Docker, MS Office, Git, XCode
 
 
 ---
