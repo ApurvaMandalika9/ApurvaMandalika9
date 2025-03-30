@@ -20,6 +20,7 @@ Hello! I'm a passionate **Data Scientist** and 📚 **Graduate Student at Texas 
 
 - **[Data Management Application](https://github.com/ApurvaMandalika9/DataManagementApplicationForDentistry)** *(2023)*  
   - Built a Ruby on Rails-based application for the Texas A&M School of Dentistry, eliminating 100% of paperwork and streamlining workflows.
+  - [Featured in "Going Digital"](https://insights.dentistry.tamu.edu/going-digital/) – the dentistry department's article on how they went digital with our work.
 
 - **Matrix Factorization Research** *(2018-2019)*  
   - Published paper: *‘Approximate Query Processing Based on Matrix Factorization within DBMS’* at ICCCET-19.
