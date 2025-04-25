@@ -7,7 +7,7 @@ Hello! I'm a passionate **Data Scientist** and 📚 **Graduate Student at Texas 
 
 ##  📂 Projects
 - **[VitaFin: A Personal Health and Financial Data Visualization Dashboard](https://github.com/ApurvaMandalika9/DataVizProject-VitaFin)** *(2025)*
-  - Created an interactive data visualization dashboard using Flask and D3.js to track and analyze personal health and financial trends, enabling insightful comparisons against historical benchmarks.
+  - Created an interactive data visualization dashboard using Flask, Vue.js and Chart.js to track and analyze personal health and financial trends, enabling insightful comparisons against historical benchmarks.
     
 - **[Intelligent Tutoring System for Learning Complex Scripts](https://github.com/ApurvaMandalika9/FeedbackMechanismForLearningComplexLanguage)** *(2024)*  
   - Developed a system with a **DTW-based personalized feedback mechanism** for learning complex scripts like Chinese and Arabic, achieving **70% improvement in user's learning outcomes**.
