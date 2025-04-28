@@ -46,7 +46,9 @@ Hello! I'm a passionate **Data Scientist** and 📚 **Graduate Student at Texas 
 ---
 
 ## 📚 Blogs
-- [**Statistics and Probability**](https://statistics-and-probability-basics.blogspot.com/) 
+- [**Statistics and Probability**](https://statistics-and-probability-basics.blogspot.com/)
+
+---
 
 ## 🌟 Highlights
 A highly skilled **Data Scientist** with a proven record in delivering impactful AI-driven solutions, designing predictive models, and developing cutting-edge technologies like **AR-based systems**. Recognized for professional excellence and innovative problem-solving.
