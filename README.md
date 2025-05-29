@@ -12,8 +12,8 @@ Hello! I'm a passionate **Data Scientist** and 📚 **Graduate Student at Texas 
 - **[To-Do List Manager with Email Reminders](https://github.com/ApurvaMandalika9/ToDoListManager-withEmailRemainder)** *(2025)*
   - Built a desktop-based task manager supporting due dates, priority levels, and file-based persistence. Integrated customizable email reminders using Jakarta Mail, enabling deadline alerts and improving task tracking efficiency.
     
-- **[Intelligent Tutoring System for Learning Complex Scripts](https://github.com/ApurvaMandalika9/FeedbackMechanismForLearningComplexLanguage)** *(2024)*  
-  - Developed a system with a **DTW-based personalized feedback mechanism** for learning complex scripts like Chinese and Arabic, achieving **70% improvement in user's learning outcomes**.
+- **[Intelligent Tutoring System for Learning Traditional Mongolian Script](https://github.com/ApurvaMandalika9/FeedbackMechanismForLearningComplexLanguage)** *(2024)*  
+  - Developed a system with a **DTW-based personalized feedback mechanism** for learning complex scripts like Traditional Mongolian, achieving **70% improvement in user's learning outcomes**.
  
 - **[Development and Comparison of ML and DL Models for Image Classification](https://github.com/ApurvaMandalika9/ImageRecognition_Using_ML_And_DL_Models)** *(2024)*  
   - Developed and compared **Random Forest (44.97% accuracy)**, **CNN (81.1%)**, and **ResNet (83.6%)** models on the CIFAR-10 dataset, analyzing their strengths and limitations.
