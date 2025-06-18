@@ -1,6 +1,10 @@
 # 👩‍💻 Welcome to My GitHub!
 
-Hello! I'm a passionate **Data Scientist** and 📚 **Graduate Student at Texas A&M University** pursuing a Master's in Computer Science. With a strong foundation in **Machine Learning**, **Deep Learning**, **Data Analytics**, and **Augmented Reality**, I bring over four years of professional experience at [24]7.ai 💼, where I contributed to innovative solutions, including AR-driven customer support and predictive analytics. My 📚 B.Tech in Computer Science from Amrita Vishwa Vidyapeetham laid the groundwork for my technical expertise.
+👋 Hello! I’m a passionate Data Scientist with a Master’s in Computer Science from Texas A&M University 🎓.
+
+💼 I have a strong foundation in Machine Learning, Deep Learning, Data Analytics, and Augmented Reality, backed by over 4 years of professional experience at [24]7.ai . During my time there, I worked on AR-driven customer support tools, predictive analytics, and other innovative solutions.
+
+📚 My journey began with a B.Tech in Computer Science from Amrita Vishwa Vidyapeetham, which laid the groundwork for my technical expertise.
 
 
 ---
