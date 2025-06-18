@@ -38,6 +38,7 @@
 ---
 
 ## 🏆 Achievements
+- **Patent** filed with the USPTO for an Augmented Reality-based customer support tool developed at [24]7.ai (proven prototype stage)
 - **Judge’s Choice Award** for *Best Working Prototype* at [24]7.ai’s Global Hackathon (2021).  
 - **Team Excellence - Super Trooper Award** at [24]7.ai’s Global Annual Awards (2021).  
 - Recognized as **Best Employee Above and Beyond** (Q4 FY22 & Q2 FY23) and **Best Employee Bravo** (Q3 FY21) at [24]7.ai.  
