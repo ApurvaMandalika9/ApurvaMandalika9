@@ -10,6 +10,12 @@
 ---
 
 ##  📂 Projects
+- **[IBM Data Science Capstone](https://github.com/ApurvaMandalika9/Coursera/tree/main/IBM%20Data%20Science/SpaceX_Capstone)** *(2025)*
+  - End-to-end ML project predicting SpaceX Falcon 9 landing success using real launch data, APIs, and dashboarding using Python, Pandas, Scikit-learn, SQL, Dash, Plotly, Folium.
+
+- **[Credit Card Fraud Detection](https://github.com/ApurvaMandalika9/Credit-Card-Fraud-Detection)** *(2025)*
+  - Used supervised and unsupervised models to detect fraudulent transactions using feature engineering, imbalance handling, and anomaly detection.
+
 - **[VitaFin: A Personal Health and Financial Data Visualization Dashboard](https://github.com/ApurvaMandalika9/DataVizProject-VitaFin)** *(2025)*
   - Created an interactive data visualization dashboard using Flask, Vue.js and Chart.js to track and analyze personal health and financial trends, enabling insightful comparisons against historical benchmarks.
 
