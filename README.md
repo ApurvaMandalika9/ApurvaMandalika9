@@ -59,10 +59,6 @@
 
 ---
 
-## 📚 [**My Blogs**](https://github.com/ApurvaMandalika9/Blogs)
-
----
-
 ## 🌟 Highlights
 A highly skilled **Data Scientist** with a proven record in delivering impactful AI-driven solutions, designing predictive models, and developing cutting-edge technologies like **AR-based systems**. Recognized for professional excellence and innovative problem-solving.
 
