@@ -44,10 +44,19 @@
 ---
 
 ## 🏆 Achievements
-- **Patent** filed with the USPTO for an Augmented Reality-based customer support tool developed at [24]7.ai (proven prototype stage)
+- **Patent** published with the USPTO **‘Method and System for providing Post-Interaction Assistance to Users’** _PCT/IB2023/050635_
 - **Judge’s Choice Award** for *Best Working Prototype* at [24]7.ai’s Global Hackathon (2021).  
 - **Team Excellence - Super Trooper Award** at [24]7.ai’s Global Annual Awards (2021).  
 - Recognized as **Best Employee Above and Beyond** (Q4 FY22 & Q2 FY23) and **Best Employee Bravo** (Q3 FY21) at [24]7.ai.  
+
+---
+
+## <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/433d9bee-ab6a-4ed4-a066-8e363077af73" />Certifications
+- Data Science Professional by IBM on Coursera
+- Augmented Reality using ARCore (Google’s AR platform) in Coursera
+- Augmented Reality using ARKit (Apple’s AR platform) in Udemy
+- Machine Learning by Stanford University on Coursera
+- Introduction to Data Analysis Using Excel by Rice University on Coursera
 
 ---
 
