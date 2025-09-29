@@ -51,12 +51,12 @@
 
 ---
 
-## <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/433d9bee-ab6a-4ed4-a066-8e363077af73" />Certifications
-- Data Science Professional by IBM on Coursera
-- Augmented Reality using ARCore (Google’s AR platform) in Coursera
-- Augmented Reality using ARKit (Apple’s AR platform) in Udemy
-- Machine Learning by Stanford University on Coursera
-- Introduction to Data Analysis Using Excel by Rice University on Coursera
+## 📜 Certifications
+- **Data Science Professional** by IBM on Coursera
+- **Augmented Reality using ARCore** (Google’s AR platform) in Coursera
+- **Augmented Reality using ARKit** (Apple’s AR platform) in Udemy
+- **Machine Learning** by Stanford University on Coursera
+- **Introduction to Data Analysis Using Excel** by Rice University on Coursera
 
 ---
 
