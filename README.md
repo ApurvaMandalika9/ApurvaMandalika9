@@ -1,15 +1,26 @@
 # 👩‍💻 Welcome to My GitHub!
 
-👋 Hello! I’m a passionate Data Scientist with a Master’s in Computer Science from Texas A&M University 🎓.
+👋 Hello! I’m Apurva, a Master’s in Computer Science graduate from Texas A&M University 🎓 with 5+ years of experience in machine learning, applied AI, and analytics.
 
-💼 I have a strong foundation in Machine Learning, Deep Learning, Data Analytics, and Augmented Reality, backed by over 4 years of professional experience at [24]7.ai . During my time there, I worked on AR-driven customer support tools, predictive analytics, and other innovative solutions.
+💼 I’m targeting roles in **AI Engineering, Data Science, and Data Analytics**, with experience spanning **RAG systems, hybrid retrieval, reranking, forecasting copilots, predictive modeling, and data-driven product solutions**.
 
-📚 My journey began with a B.Tech in Computer Science from Amrita Vishwa Vidyapeetham, which laid the groundwork for my technical expertise.
+🚀 My recent projects include **RetailIQ AI**, a retail knowledge assistant built with retrieval-augmented generation, and a **Walmart Demand Forecasting Copilot** powered by LLM-based query routing and forecasting pipelines.
+
+📚 I also hold a B.Tech in Computer Science from Amrita Vishwa Vidyapeetham, with a strong foundation in software engineering, data, and intelligent systems.
 
 
 ---
 
 ##  📂 Projects
+- **[RetailIQ AI - Retail-RAG-Assistant](https://github.com/ApurvaMandalika9/Retail-RAG-Assistant)** *(2026)*
+  - Built a retail-domain RAG assistant using Python, FastAPI, Streamlit, Gemini API, Sentence Transformers, FAISS, BM25, and cross-encoder reranking to answer business questions from pricing, inventory, promotions, and operations documents with grounded source-backed responses.
+    
+- **[Walmart-Demand-Forecasting-Copilot](https://github.com/ApurvaMandalika9/Walmart-Demand-Forecasting-Copilot)** *(2026)*
+  - Developed an AI-powered retail forecasting assistant using Python, XGBoost, FastAPI, Time-series forecasting and LLM routing to predict demand and answer natural language business queries.
+  
+- **[Heart Disease Prediction](https://github.com/ApurvaMandalika9/Heart-Disease-Prediction)** *(2025)*
+  - Built a heart disease risk prediction system using Python, Scikit-learn, Pandas, NumPy, and Flask to analyze patient health data and support early diagnosis.   
+
 - **[IBM Data Science Capstone](https://github.com/ApurvaMandalika9/Coursera/tree/main/IBM%20Data%20Science/SpaceX_Capstone)** *(2025)*
   - End-to-end ML project predicting SpaceX Falcon 9 landing success using real launch data, APIs, and dashboarding using Python, Pandas, Scikit-learn, SQL, Dash, Plotly, Folium.
 
@@ -61,15 +72,32 @@
 ---
 
 ## 🛠 Skills
-- **Technical Expertise**: Data Mining, Data Analytics, Machine Learning, Deep Learning, Data Visualization, Augmented Reality 
-- **Programming Languages**: Python, SQL, PostgreSQL, Java, Node.js, React, Ruby on Rails, HTML, CSS, JavaScript, Swift  
-- **Platforms & Tools**:  PyTorch, Tableau, Jupyter Notebook, Flask, VS Code, Express, Docker, MS Office, Git, XCode
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-4B8BBE?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
+![BM25](https://img.shields.io/badge/BM25-8B4513?style=for-the-badge)
+![Reranking](https://img.shields.io/badge/Reranking-B22222?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
 ## 🌟 Highlights
-A highly skilled **Data Scientist** with a proven record in delivering impactful AI-driven solutions, designing predictive models, and developing cutting-edge technologies like **AR-based systems**. Recognized for professional excellence and innovative problem-solving.
+A highly skilled **AI/ML Engineer** with a proven record in delivering impactful AI-driven solutions, designing predictive models, and developing cutting-edge technologies like **AR-based systems**. Recognized for professional excellence and innovative problem-solving.
 
 ---
 
